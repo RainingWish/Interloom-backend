@@ -12,4 +12,4 @@
 •	Frontend angular will create a shoppingCar[] to save: id, name, image, price, current item, stock, total<br />
 •	This can program less http request between backend and frontend and the response of frontend will amazing quick<br />
 # Here is my project demo vedio:
-
+https://youtu.be/5fuyp9bYisM
