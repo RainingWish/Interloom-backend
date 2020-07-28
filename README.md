@@ -5,7 +5,7 @@
 •	Repository interface <br />
 •	Resource modify data and generate Rest api <br />
 •	Send the email <br />
-# Here I pushed all code without application.properties, due to have my Mysql and gmail account + password<br />
+•	Here I pushed all code without application.properties, due to have my Mysql and gmail account + password<br />
 <br />
 # I using my Mysql database on my cloud Server here is the basic idea of my database<br />
 •	Only one table shoppinglist: id, name, description, image, price, stock<br />
